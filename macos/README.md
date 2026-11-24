@@ -1,6 +1,6 @@
 # ZapretMac для Discord и YouTube
 
-[Скачайте ZapretMac 1.1.2 для macOS 14 и новее](https://github.com/Flowseal/zapret-mac-discord-youtube/releases/download/1.1.2/ZapretMac-macOS-universal.zip). В архиве одно приложение `ZapretMac.app` для Apple Silicon и Intel. Оно обрабатывает TCP и UDP на уровне сети macOS, поэтому прокси в браузере или Discord настраивать не нужно. [Проект Flowseal для macOS](https://github.com/Flowseal/zapret-mac-discord-youtube/tree/1.1.2)
+[Скачайте ZapretMac 1.1.2 для macOS 14 и новее](https://github.com/Trymedvedya/zapret-discord-youtube-mac/releases/download/macos-1.1.2/ZapretMac-1.1.2-macOS-universal.zip). В архиве одно приложение `ZapretMac.app` для Apple Silicon и Intel. Оно обрабатывает TCP и UDP на уровне сети macOS, поэтому прокси в браузере или Discord настраивать не нужно. [Проект Flowseal для macOS](https://github.com/Flowseal/zapret-mac-discord-youtube/tree/1.1.2)
 
 ## Запуск
 

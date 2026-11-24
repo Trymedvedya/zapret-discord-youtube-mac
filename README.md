@@ -33,7 +33,7 @@
 
 ## macOS
 
-Для macOS 14 и новее есть [ZapretMac с поддержкой голосового UDP Discord](macos/README.md).
+[Скачать ZapretMac 1.1.2](https://github.com/Trymedvedya/zapret-discord-youtube-mac/releases/tag/macos-1.1.2) · [Инструкция для macOS и голосового Discord](macos/README.md)
 
 ## ⚙️Использование
 
